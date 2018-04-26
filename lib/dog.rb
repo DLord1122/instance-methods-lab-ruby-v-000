@@ -9,4 +9,3 @@ fido = Dog.new
 fido.bark
 fido.sit
 end
-end
